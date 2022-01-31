@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import './Product.css';
 import {Card} from "antd";
 import Meta from "antd/es/card/Meta";
-import {AppstoreAddOutlined} from "@ant-design/icons";
 
 const Product = (props) => {
     const handleClick = () => {

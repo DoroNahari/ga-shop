@@ -1,5 +1,5 @@
 import './App.css';
-import {Badge, Button, Col, Layout, Menu, Popover, Row, Typography} from "antd";
+import {Badge, Button, Col, Layout, Menu, Popover, Row} from "antd";
 import {ShoppingCartOutlined} from "@ant-design/icons";
 import Product from "./components/Product/Product"
 import {useEffect, useState} from "react";
